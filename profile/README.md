@@ -13,4 +13,4 @@ You might be wondering, why does Woozy have an organization, if it already has a
 - GitHub: https://github.com/woozystudio  
 - Website: https://woozystudio.com  
 - Discord: [@woozystudio](https:/discord.com/users/869583777884667964)  
-- Discord Server: https://discord.gg/BskQZmkhnb
+- Discord Server: https://discord.gg/DW6fuPABcN
